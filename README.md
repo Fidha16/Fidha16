@@ -2,9 +2,9 @@
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-## I'm a 𝘼𝙗𝙤𝙪𝙩 𝙮𝙤𝙪
+## I'm a student
 
-- 💬 Ask me about ......
+- 💬 Ask me about  C,C++,java,mysql
 - 📫 Reach me at fidhafathima1642@gmail.com
 
 ### Connect with me:
